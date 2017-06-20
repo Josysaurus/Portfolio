@@ -1,0 +1,25 @@
+
+body{
+background-color: #0099e6;
+opacity: 20%;
+}
+
+h1{font-family: 'Mogra', cursive;
+	
+}
+p{
+	font-family: 'Oswald', sans-serif; 
+	font-size: 36px;
+	color: white;
+}
+img{
+	  float: left;
+  margin-right: 10px;
+}
+.bulletpoints{
+	clear: both;
+}
+h3{
+	clear:both;
+	font-family: 'PT Sans', sans-serif;
+}
