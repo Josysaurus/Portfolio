@@ -23,3 +23,8 @@ h3{
 	clear:both;
 	font-family: 'PT Sans', sans-serif;
 }
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: orange;
+    }
+}
